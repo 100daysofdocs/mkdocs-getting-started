@@ -14,7 +14,7 @@ docs/
 ```
 
 
-### Configure Pages and Navigation
+## Configure Pages and Navigation
 
 The `nav` configuration setting in your `mkdocs.yml` file defines which pages are included in the global site navigation menu as well as the structure of that menu. 
 If not provided, the navigation will be automatically created by discovering all the Markdown files in the `docs`.
