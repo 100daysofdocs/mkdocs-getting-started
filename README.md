@@ -1,7 +1,7 @@
 # mkdocs-getting-started
 
 
-To open usin GitPod, prefix the repo url with \https://gitpod.io/#
+To open usin GitPod, prefix the repo url with "https://gitpod.io/#"
 
 For example, to open this repo, use https://gitpod.io/#https://github.com/100daysofdocs/mkdocs-getting-started
 
